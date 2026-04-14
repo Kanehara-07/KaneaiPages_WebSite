@@ -14,7 +14,6 @@ permalink: /
 
  
 - だし巻き卵の端っこ
-![image](/KaneaiPages_WebSite/assets/images/logo-150.png)
 
 
  
