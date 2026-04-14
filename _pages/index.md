@@ -9,7 +9,6 @@ permalink: /
 　 と、それをあやしてる全くの他人
 
 
-
 - 夜中にキラキラ光りながら散歩してる犬
 
 
@@ -72,4 +71,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/KaneaiPages_WebSite/assets/images/logo-150.png)
