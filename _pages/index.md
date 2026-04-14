@@ -14,7 +14,7 @@ permalink: /
 
  
 - だし巻き卵の端っこ
-
+![image](/KaneaiPages_WebSite/assets/images/logo-150.png)
 
 
  
@@ -32,9 +32,7 @@ permalink: /
 
 
 
-- 
-
-![image](/KaneaiPages_WebSite/assets/images/牡牛.png)
+  
 ---
 
 以下テンプレート
