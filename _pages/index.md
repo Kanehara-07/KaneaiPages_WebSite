@@ -1,11 +1,11 @@
 ---
-title: "ここにページのタイトル"
+title: "私と言う人間"
 author: default
 permalink: /
 ---
 
 
-Hello World
+
 
 
 
