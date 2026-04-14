@@ -34,6 +34,7 @@ permalink: /
 
 - 
 
+![image](/KaneaiPages_WebSite/assets/images/牡牛.png)
 ---
 
 以下テンプレート
